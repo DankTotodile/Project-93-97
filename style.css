@@ -1,0 +1,114 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  background-color: lightblue;
+}
+
+
+
+.header
+{
+	color: white;font-family: 'Agency FB';font-size: 90px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 120px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#output
+{
+	padding: 5px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;font-size: 20px !important;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.color_white
+{
+	color: white;
+	font-family: Impact;
+	font-size: 30px	;
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
+#username
+{
+	border-radius: 50px;
+}
+body
+{
+	font-size: 70px;
+	background-image: url("https://cdn.business2community.com/wp-content/uploads/2016/09/social-media-background1-150x150.jpg-900x514.jpg");
+	background-size: cover;
+}
+.labelol
+{
+	font-size:  20px !important;
+}
+#message
+{
+	width: 700px;
+	margin-top: -20px;
+	margin-bottom: -20px;
+}
